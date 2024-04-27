@@ -2,7 +2,7 @@
 
 Olá! Sou formada em Pedagogia, mas atualmente trabalho em uma biblioteca escolar. 
 
-Estou me aventurando no mundo da programação através deste bootcamps da DIO.
+Estou me aventurando no mundo da programação através deste bootcamp da DIO.
 
 ## 🔗 Conecte-se comigo
 
